@@ -1,1 +1,15 @@
 G:\Code Studel\Github Test\GithubTest\GithubTest\bin\Debug\GithubTest.exe.config
+G:\CodeStudy\Github.Test\GithubTest\GithubTest\bin\Debug\GithubTest.exe.config
+G:\CodeStudy\Github.Test\GithubTest\GithubTest\bin\Debug\GithubTest.exe
+G:\CodeStudy\Github.Test\GithubTest\GithubTest\bin\Debug\GithubTest.pdb
+G:\CodeStudy\Github.Test\GithubTest\GithubTest\obj\Debug\GithubTest.csprojResolveAssemblyReference.cache
+G:\CodeStudy\Github.Test\GithubTest\GithubTest\obj\Debug\MainWindow.g.cs
+G:\CodeStudy\Github.Test\GithubTest\GithubTest\obj\Debug\App.g.cs
+G:\CodeStudy\Github.Test\GithubTest\GithubTest\obj\Debug\GithubTest_MarkupCompile.cache
+G:\CodeStudy\Github.Test\GithubTest\GithubTest\obj\Debug\GithubTest_MarkupCompile.lref
+G:\CodeStudy\Github.Test\GithubTest\GithubTest\obj\Debug\MainWindow.baml
+G:\CodeStudy\Github.Test\GithubTest\GithubTest\obj\Debug\GithubTest.g.resources
+G:\CodeStudy\Github.Test\GithubTest\GithubTest\obj\Debug\GithubTest.Properties.Resources.resources
+G:\CodeStudy\Github.Test\GithubTest\GithubTest\obj\Debug\GithubTest.csproj.GenerateResource.Cache
+G:\CodeStudy\Github.Test\GithubTest\GithubTest\obj\Debug\GithubTest.exe
+G:\CodeStudy\Github.Test\GithubTest\GithubTest\obj\Debug\GithubTest.pdb
